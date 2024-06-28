@@ -16,4 +16,4 @@ train our model as follow:
 bash tools/dist_train.sh configs/FFA/FFA_Q2LCausal.py 1
 ```
 
-the FFA dataset need to be required by send email to Jianyang.Xie@liverpool.ac.uk
+the FFA dataset need to be required by sending email to Jianyang.Xie@liverpool.ac.uk
