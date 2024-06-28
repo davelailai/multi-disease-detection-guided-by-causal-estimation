@@ -1,0 +1,24 @@
+/mmpretrain/.mim
+.DS_Store
+
+# Pytorch
+*.pth
+
+# IPU
+*.pvti
+*.pvti-journal
+/cache_engine
+/report
+
+# slurm
+*.out
+
+# tensorflow
+*.tar.gz
+checkpoint
+model_params.txt
+*.ckpt*
+results.txt
+# Ignore the node_modules directory
+work_dirs_MICCAI_new/
+
